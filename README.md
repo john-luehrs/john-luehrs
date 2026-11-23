@@ -1,39 +1,25 @@
 # John Luehrs
 
-AI-Assisted Tooling Engineer | Developer Enablement | Quality Engineering
+**Quality Engineer II · Test Automation Architect · AI-Assisted Tooling**
 
-I build practical tools that improve developer workflows and reduce friction in day-to-day engineering. My work focuses on AI-assisted development, internal tooling, and automation enablement. I specialize in breaking down complex processes, creating clear documentation, and helping teams adopt new technologies through one-on-one guidance and hands-on examples.
+I design test automation infrastructure, deterministic validation guardrails, and internal developer utilities that reduce triage friction and catch requirement gaps early. My background spans 6+ years of full-stack quality engineering across web, mobile, and embedded systems, paired with practical AI evaluation and workflow automation.
 
 ## Areas of Focus
-- AI-assisted development workflows (Claude, Copilot, Cursor)
-- Agentic AI patterns and prompt-driven automation
-- Internal tooling development using Python and VS Code
-- Developer onboarding and peer enablement
-- Test analysis automation and workflow optimization
-- SSE streaming, Whisper-based audio evaluation, and multimodal testing
-- Knowledge-base generation and documentation automation
 
-## Current Work
-I am developing a set of tools and demonstrations that show how AI can support engineering teams in practical, repeatable ways. These projects include test analysis utilities, documentation generators, audio evaluation pipelines, and onboarding materials for teams beginning to explore AI-assisted development.
+* **Test Automation & Frameworks:** Playwright, Python, Node.js/TypeScript, BDD/Gherkin parsing, and regression baseline tracking
+* **AI Evaluation & Guardrails:** Schema-enforced LLM outputs, prompt regression testing, two-pass routing, and human-in-the-loop auditing
+* **Requirements & Observability:** Specification-to-test traceability (Jira / Zephyr Scale), log & telemetry analysis, and automated failure triage
+* **Internal Developer Tooling:** VS Code extensions, local web utilities, and SSE-streamed batch audit pipelines
 
 ## Featured Projects
-**Automation Test Run Auditor**  
-AI-assisted analysis of test run output, pattern detection, and summary generation.
 
-**QE Playbook Generator**  
-Agentic workflow that produces structured documentation for QA processes and test strategies.
+* **[Automation Auditor](https://github.com/john-luehrs/automation-auditor-demo)** — Cross-references automated test checkpoints against Zephyr Scale test steps using two-pass LLM analysis and SSE streaming to separate infrastructure noise from true coverage gaps.
+* **[Audio Testing Harness](https://github.com/john-luehrs/audio-testing-harness-demo)** — Playwright-based voice QA harness combining headless `getUserMedia` audio injection with decoupled transcription regression baselines.
+* **[Test Case Toolkit](https://github.com/john-luehrs/test-case-toolkit-demo)** — VS Code extension integrated with Zephyr Scale for constitution-driven test review, BDD conversion, and schema-validated automation annotation.
+* **[QE Playbook Assistant](https://github.com/john-luehrs/qe-playbook-demo)** — Local Node/Express assistant that structures retrospective findings and surfaces recurring failure patterns from engineering playbooks.
+* **[Internal Tools Sandbox](https://github.com/john-luehrs/internal-tools-sandbox)** — Local full-stack sandbox (Next.js, FastAPI, SQLite) for prototyping log analysis, ticket triage, and defect pattern workflows.
 
-**Audio Testing Harness**  
-Whisper and SSE-based tool for evaluating audio output from embedded or multimodal devices.
+## Get in Touch
 
-**Test Case Toolkit**  
-Utilities for transforming, rewriting, and analyzing test cases using LLM-assisted workflows.
-
-**AI Onboarding Guide**  
-A step-by-step introduction to AI-assisted development, including practical exercises for engineers new to agentic workflows.
-
-## Approach
-I focus on clarity, reliability, and practical value. My goal is to create tools and documentation that reduce manual effort, improve understanding, and help teams adopt AI in a way that feels approachable and useful.
-
-## Contact
-Feel free to explore my repositories or reach out if you want to discuss AI-assisted development, internal tooling, or enablement work.
+* **Email:** johnluehrs@gmail.com
+* **Location:** Chesterfield / Richmond, VA
