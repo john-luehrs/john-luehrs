@@ -1,6 +1,6 @@
 # John Luehrs
 
-**Quality Engineer II · Test Automation Architect · AI-Assisted Tooling**
+**Quality Engineer II · Internal Tools Specialist · AI-Assisted Tooling**
 
 I design test automation infrastructure, deterministic validation guardrails, and internal developer utilities that reduce triage friction and catch requirement gaps early. My background spans 6+ years of full-stack quality engineering across web, mobile, and embedded systems, paired with practical AI evaluation and workflow automation.
 
